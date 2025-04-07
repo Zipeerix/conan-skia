@@ -16,7 +16,7 @@ import re
 import json
 
 class ConanSkia(ConanFile):
-    name = "skia"
+    name = "bober-skia"
     package_type = "library"
 
     # Optional metadata
